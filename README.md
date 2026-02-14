@@ -1,0 +1,2 @@
+# latihan
+untuk praktik git 
